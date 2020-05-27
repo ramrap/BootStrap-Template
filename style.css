@@ -40,10 +40,18 @@ html,body{
   padding-bottom: 1rem;
 }
 
+.btn-primary{
+  background-color: #6648b1;
+  border: 1px solid #563d7c;
+}
 
 
-
-
+.jumbotron{
+  padding: 1rem;
+}
+.padding{
+  padding-bottom: 2rem;
+}
 
 
 
