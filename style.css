@@ -33,26 +33,59 @@ html,body{
   text-shadow: 1px 1px 15px black;
 }
 
-.carousel-caption h3{
+.carousel-caption h3 {
   font-size: 200%;
   font-weight: 450;
   text-shadow: 1px 1px 10px black;
   padding-bottom: 1rem;
 }
 
-.btn-primary{
+.btn-primary {
   background-color: #6648b1;
   border: 1px solid #563d7c;
 }
 
 
-.jumbotron{
+.jumbotron {
   padding: 1rem;
 }
-.padding{
+.padding {
   padding-bottom: 2rem;
 }
 
+.welcome {
+  width: 75%;
+  margin: 0 auto;
+}
+.fa-code {
+  color: red;
+}
+.fa-bold{
+  color: blue;
+}
+.fa-css3{
+  color: grey;
+}
+.fa-code,.fa-bold,.fa-css3{
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+.fun{
+  width: 100%;
+  margin-bottom: 2rem;
+}
+.gif{
+  max-width: 100%;
+}
+.social a{
+  font-size: 4rem;
+  margin: 1.2rem;
+}
+.footer{
+  background-color: #3f3f3f;
+  color: #d5d5d5;
+
+}
 
 
 
